@@ -1,2 +1,1 @@
-# React_Advanced_Assignment
-Assignment for React Advanced
+NOTE FOR MENTOR REVIEWING: Feedback can be done in English and/or Dutch! No preference!
