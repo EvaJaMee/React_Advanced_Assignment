@@ -1,0 +1,181 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "ShiningGirl",
+      "image": "https://ih1.redbubble.net/image.1883045302.5061/flat,750x,075,f-pad,750x1000,f8f8f8.jpg"
+    },
+    {
+      "id": 2,
+      "name": "partyFanatic",
+      "image": "https://www.hellolizziebee.com/wp-content/uploads/2023/05/FuTdR79akAEJ6Bn.jpg.webp"
+    },
+    {
+      "id": 3,
+      "name": "Bunnies&Pompoms",
+      "image": "https://images.squarespace-cdn.com/content/v1/642fe9d50ff3d476932fc101/893b2205-929c-4126-90e4-da5846525216/Decora+by+Ozo_ni+1.jpg"
+    },
+    {
+      "id": 4,
+      "name": "StarrySky",
+      "image": "https://avatarfiles.alphacoders.com/375/375567.png"
+    },
+    {
+      "id": 5,
+      "name": "ResplendentFlowers",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkTFDVSRjGC7dJf8tS54x2OpSbIeEocEa2_w&s"
+    }
+  ],
+  "events": [
+    {
+      "title": "J-Fashion Walk Spring Edition",
+      "description": "It's Spring-time! Time to walk through the city and show off our outfits with other fans! After the walk, we will relax at the park and enjoy the lovely weather, so make sure to bring some snacks and drinks along!",
+      "image": "https://www.citygalonthego.com/wp-content/uploads/2012/09/harajuku12-1024x596.jpg",
+      "location": "Amsterdam Centraal Station",
+      "categoryIds": "1",
+      "startTime": "2025-03-15T13:00",
+      "endTime": "2025-03-15T20:00",
+      "createdBy": "5",
+      "id": 65
+    },
+    {
+      "title": "J-Fashion Show",
+      "description": "Show off your J-Fashion style at the J-Fashion Show! After the show, there will be a group photo with all contestants and a small prize for the winner. We have a changing room available for you to change into your outfit. We'll have a little party after the fashion show!",
+      "image": "https://pm1.aminoapps.com/6782/552e589905cbba4eb5550ee24af722b884ef27c5v2_hq.jpg",
+      "location": "Rotterdam (address will follow after you sign up)",
+      "categoryIds": "2",
+      "startTime": "2025-04-24T16:00",
+      "endTime": "2025-04-24T22:00",
+      "createdBy": "1",
+      "id": 33
+    },
+    {
+      "title": "J-Fashion Spring Meetup",
+      "description": "Time to meet fellow J-Fashion fans! With the nice weather, we're going to have a lovely picnic in the park. We'll be relaxing, dancing, playing games and have a good time together! Bring some drinks and snacks for everyone and make sure to clean up afterwards!",
+      "image": "https://www.thesushitimes.com/wp-content/uploads/2020/08/Verschillende-soorten-J-Fashion.-Foto-via-Pixabay..jpg",
+      "location": "Vondelpark Amsterdam",
+      "categoryIds": "4",
+      "startTime": "2025-05-06T13:00",
+      "endTime": "2025-05-06T20:00",
+      "createdBy": "4",
+      "id": 35
+    },
+    {
+      "title": "Nails Workshop",
+      "description": "Want to learn how to do cute nail art? Join the Nails Workshop! We'll show you how to do different nail art styles and provide you with nail polish, nail art tools and decorations to use during the workshop. You can also bring your own nail polish and tools if you want to.",
+      "image": "https://www.hellolizziebee.com/wp-content/uploads/2014/09/tumblr_mdcoerr0id1ris4woo1_500_zpsoytsckbr.jpg.webp",
+      "location": "Utrecht (address will follow after you sign up)",
+      "categoryIds": "3",
+      "startTime": "2025-05-20T13:30",
+      "endTime": "2025-05-20T20:30",
+      "createdBy": "1",
+      "id": 37
+    },
+    {
+      "title": "Hairstyle Workshop",
+      "description": "Want to learn how to do those fancy curls? Or maybe how to do those edgy cuts? Come to the Hairstyle Workshop to learn how to style your hair! We will provide some wigs and styling products to practice with.",
+      "image": "https://www.aleeby.com/cdn/shop/products/image_b91a1251-59a1-46cc-ad7b-51a67bbed6a2_760x.jpg?v=1657162046",
+      "location": "Amsterdam (address will follow after you sign up)",
+      "categoryIds": "3",
+      "startTime": "2025-03-06T13:30",
+      "endTime": "2025-03-06T20:00",
+      "createdBy": "1",
+      "id": 63
+    },
+    {
+      "title": "Skincare Workshop",
+      "description": "Skincare is more than just washing your face. Join the Skincare Workshop to learn all about the basics of skincare and how to take care of your skin. What kind of products are there? And what skincare routine is best for your skin type? We'll provide you with some skincare product samples to try out during the workshop.",
+      "image": "https://img.kwcdn.com/product/fancy/a045cb76-aaf4-469b-9028-3f16da2cd3df.jpg?imageView2/2/w/500/q/60/format/webp",
+      "location": "Zwolle (address will follow after you sign up)",
+      "categoryIds": "3",
+      "startTime": "2025-06-17T12:00",
+      "endTime": "2025-06-17T18:00",
+      "createdBy": "5",
+      "id": 45
+    },
+    {
+      "title": "J-Fashion Dance Workshop",
+      "description": "Not exactly part of any J-Fashion per say, but lots of J-Fashionistas like to dance! From quick TikTok dances, to Para Para, Dance Dance Revolution and Japanese Idol dances, we'll cover it all! We'll have a relaxing snacks and drinks after the workout!",
+      "image": "https://www.danceanddance.com/styles/Para_para.jpg",
+      "location": "Tilburg (address will follow after you sign up)",
+      "categoryIds": "1",
+      "startTime": "2025-07-05T14:00",
+      "endTime": "2025-07-05T16:00",
+      "createdBy": "2",
+      "id": 46
+    },
+    {
+      "title": "J-Fashion Party",
+      "description": "It's time to party! We'll have a DJ playing all kinds of Japanese music, a dance floor, snacks and drinks, and a photo booth to take some fun photos with your friends. We'll have a small contest for the best dressed and the winner will get a small prize.",
+      "image": "https://i.ytimg.com/vi/CAHV7xDZeUo/maxresdefault.jpg",
+      "location": "Utrecht (address will follow after you sign up)",
+      "categoryIds": "4",
+      "startTime": "2025-07-19T09:00",
+      "endTime": "2025-07-19T23:00",
+      "createdBy": "3",
+      "id": 47
+    },
+    {
+      "title": "J-Fashion Beach Party&BBQ",
+      "description": "It's Summer and we all know what that means! Time to go to the beach and have a BBQ! We'll have a volleyball net, frisbees, beach balls and other games to play. We'll have a BBQ with meat, fish, veggies and drinks. Bring your own snacks and drinks if you want to.",
+      "image": "https://i.pinimg.com/736x/56/89/69/568969eaf2a884b2ecf0946d6c53cb13.jpg",
+      "location": "Zandvoort Aan Zee",
+      "categoryIds": "4",
+      "startTime": "2025-08-02T11:00",
+      "endTime": "2025-08-02T21:00",
+      "createdBy": "2",
+      "id": 48
+    },
+    {
+      "title": "J-Fashion Halloween Party",
+      "description": "It's Halloween! Get your best spooky J-Fashion outfit ready and join us at the J-Fashion Halloween Party! We will have all kinds of Halloween music, lots of Horror movies and games, snacks and drinks, and a photo booth to take some fun photos with your friends. We'll have a small contest for the best spookiest outfit and the winner will get a small prize.",
+      "image": "https://s3.voyapon.com/wp-content/uploads/2016/10/07172209/halloween-2528-min-1024x683.jpg",
+      "location": "Den Haag (address will follow after you sign up)",
+      "categoryIds": "4",
+      "startTime": "2025-10-31T15:00",
+      "endTime": "2025-10-31T-02:00",
+      "createdBy": "2",
+      "id": 55
+    },
+    {
+      "title": "J-Fashion Winter Meetup",
+      "description": "It's Winter and it's cold outside! Time to meet up with fellow J-Fashion fans and have a nice warm cup of tea or hot chocolate! If it's cold enough, we can go ice skating or have a snowball fight! Bring your own snacks and drinks if you want to.",
+      "image": "https://i.pinimg.com/564x/04/ab/62/04ab6223e27af3a9781ec7273878c262.jpg",
+      "location": "Rotterdam (address will follow after you sign up)",
+      "categoryIds": "4",
+      "startTime": "2025-12-15T13:00",
+      "endTime": "2025-12-15T21:00",
+      "createdBy": "4",
+      "id": 62
+    },
+    {
+      "title": "J-Fashion Walk Winter Edition",
+      "description": "It's Winter-time! Let's go out for a walk into the city in our best outfits! Be sure to take along warm snacks and drinks. If it's cold enough, we could even go ice-skating!",
+      "image": "https://i.pinimg.com/736x/06/06/95/060695de209d8f30549b852c95d5cf9d.jpg",
+      "location": "Utrecht Centraal Station",
+      "categoryIds": "1",
+      "startTime": "2026-01-15T22:00",
+      "endTime": "2026-01-15T20:00",
+      "createdBy": "1",
+      "id": 64
+    }
+  ],
+  "categories": [
+    {
+      "name": "Active",
+      "id": 1
+    },
+    {
+      "name": "Contests",
+      "id": 2
+    },
+    {
+      "name": "Workshops&Lectures",
+      "id": 3
+    },
+    {
+      "name": "Social&Seasonals",
+      "id": 4
+    }
+  ]
+}
