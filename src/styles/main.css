@@ -83,8 +83,8 @@
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  width: 100vw;
-  height: 100vh;
+  width: 100%;
+  height: 100%;
   background-color: rgb(255, 195, 228);
 }
 
@@ -92,17 +92,19 @@
   margin: 0 auto;
   padding: 10px;
   width: 90%;
+  height: auto;
   max-width: 800px;
   background-color: transparent;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
+  box-sizing: border-box;
 }
 
 .home-page-container .homepage-article img {
-  width: 100%;
-  height: 100%;
+  max-width: 100%;
+  height: auto;
   border-radius: 1rem;
 }
 
@@ -119,6 +121,8 @@
 @media screen and (min-width: 401px) {
   .home-page-container .homepage-article {
     margin-top: 5px;
+    width: 95%;
+    background-color: transparent;
   }
   .home-page-container .homepage-article p {
     font-size: 0.9rem;
@@ -128,6 +132,7 @@
 @media screen and (min-width: 801px) {
   .home-page-container .homepage-article {
     margin-top: 5px;
+    width: 95%;
     background-color: transparent;
   }
   .home-page-container .homepage-article p {
@@ -153,7 +158,7 @@
 
 .root-header {
   width: 100%;
-  height: 60px;
+  height: 60%;
   margin-bottom: 10px;
   padding: 10px;
   text-align: center;
@@ -413,6 +418,7 @@
   width: 250px;
   height: 250px;
   border-radius: 1rem;
+  object-fit: cover;
 }
 
 .event-page-container .description {
