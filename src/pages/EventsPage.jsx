@@ -94,7 +94,11 @@ export const EventsPage = () => {
 
                 <section className="card-body">
                   <section className="events-image-container">
-                    <img src={event.image} alt={event.title} />
+                    <img
+                      src={event.image}
+                      alt={event.title}
+                      style={{ objectFit: "cover" }}
+                    />
                   </section>
 
                   <section className="card-body-items">
