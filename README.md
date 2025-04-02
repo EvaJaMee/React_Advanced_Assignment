@@ -1,9 +1,11 @@
 NOTE FOR MENTOR REVIEWING: Feedback can be done in English and/or Dutch! No preference!
 
+- install json-server command, run in terminal: npm i -g json-server@0.17.4. Otherwise, the search function will break and not return the results.
 - npm run dev to run the website.
 - command line to event directory and json-server events.json to start up the event server.
 
 Updates/fixes:
+- Investigated why the search bar would not function on other devices aside from main device the project was build on. json server command was not installed and no result would return when typing in search bar. When json server command is installed, it works.
 - Updated main.css to fix the horizontal scroll bar on the homepage. This was a small issue on responsiveness.
 - Updated main.css to fix the header on the homepage becoming wonky on smaller screens. It works accordingly for screens >400px. Lower sizes creates a black space on the bottom that I can look into to fix properly in the future.
 - Updated main.css and EventsPage.jsx to fix the aspect ratios of event images.
